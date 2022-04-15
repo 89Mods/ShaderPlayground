@@ -5,8 +5,11 @@ All shader parameters can be animated for cool effects.
 To get started, look at the included demo materials. The shader effect works like an emissions layer. Its presence is controlled by a grayscale mask texture on top of a RGB base texture.
 
 "Tholin/FractalShader" is the basic fractal shader.
+
 "Tholin/RainbowFractalShader" is a rainbow-colored version of it.
+
 "Tholin/AudioReactiveFractalShader" is a AudioLink-reactive version of the shader.
+
 "Tholin/LumaGlowFractalShader" is a Luma-Glow reactive version of the shader.
 
 Video demo: https://twitter.com/javagames89/status/1505281510789763079
