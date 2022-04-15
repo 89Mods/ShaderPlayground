@@ -4,7 +4,8 @@ This is a shader that runs in a CRT and randomly generates a maze. I created thi
 # Setup
 Install the CRT_GenericInputLayer shader also found in this repository.
 Set up the required Avatar parameters.
-![a](https://github.com/89Mods/ShaderPlayground/MazeGenerator/parameterSetup.png)
+![a](https://raw.githubusercontent.com/89Mods/ShaderPlayground/main/MazeGenerator/parameterSetup.png)
+
 Copy both animation layers from the `ReferenceAnimator` controller into your FX animator, not forgetting to add the three avatar parameters to the controller's parameter list first.
 The animations are WD Off - compatible. Just uncheck that checkbox on all the nodes if your avatar uses WD Off.
 Add a sub-menu entry to the `MazeMenu` somewhere in your expressions menu.
