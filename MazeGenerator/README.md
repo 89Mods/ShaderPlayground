@@ -1,6 +1,10 @@
 # Procedural Maze Generator
 This is a shader that runs in a CRT and randomly generates a maze. I created this to see if it was possible to use a stack in a CRT.
 
+More info: https://tholin.dev/misc_shaders#maze
+
+Video demo: https://www.youtube.com/watch?v=aNvTKSW-XVE
+
 # Setup
 Install the CRT_GenericInputLayer shader also found in this repository.
 Set up the required Avatar parameters.
