@@ -9,3 +9,7 @@ Two versions of the shader exist:
 "PlasmaShader" - Base version using noise textures.
 
 "PlasmaShader-LivePerlin" - This version does not need the noise textures, instead using a RNG to generate the noise fields live in software. This is a lot more GPU performance intensive though.
+
+More info: https://tholin.dev/misc_shaders#plasma
+
+Video demo: https://www.youtube.com/watch?v=BQRpQE51h2Y
