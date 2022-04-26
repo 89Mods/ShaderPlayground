@@ -12,6 +12,6 @@ To get started, look at the included demo materials. The shader effect works lik
 
 "Tholin/LumaGlowFractalShader" is a Luma-Glow reactive version of the shader.
 
-More info: https://tholin.dev/misc_shaders#maze
+More info: https://tholin.dev/misc_shaders#fractal
 
 Video demo: https://www.youtube.com/watch?v=aCC6UV_FjBQ
